@@ -8,6 +8,9 @@ To run bash file type :
 If permission is denied type :
 chmod 777 os.sh
 
+Then type above command (./os.sh)
+This will give you user create and create a text file in home directory.
+
 This will change permissions and file can be run by users,usergroup and root user.It will provide read,write,execute access to file.
 
 Once file is run,it will prompt user to enter filename which will store history in Home folder by given name.
